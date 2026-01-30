@@ -1,4 +1,4 @@
-# 💫 About Me:
+# MUHAMMAD ANUS
 Hi! I’m Muhammad Anas, learning modern web development with HTML, CSS, and JavaScript.<br><br>🔭 I’m currently working on:<br>Building interactive web projects with HTML, CSS, and JS.<br><br>👯 I’m looking to collaborate on:<br>Simple and creative web projects to improve my skills.<br><br>🤝 I’m looking for help with:<br>Advanced JavaScript concepts.<br><br>🌱 I’m currently learning:<br>Modern web development techniques.<br><br>💬 Ask me about:<br>HTML, CSS, and JavaScript basics.<br><br>⚡ Fun fact:<br>I love experimenting with web design and interactive features!<br>
 
 
